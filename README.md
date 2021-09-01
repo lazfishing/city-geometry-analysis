@@ -32,7 +32,9 @@ We derive a standard metric for measuring the neighborhood urban layout composit
 
 By decoding the linearly interpolated values of two latent subspaces, we are able to generate realistic urban layouts that resemble two dissimilar layouts. Urban planners can use this tool to rapidly generate new layouts that are contextually sensitive to the surrounding urban typology.
 
-![Interpolation Example 1](/images/interpolation.gif) ![Interpolation Example 2](/images/interpolation_2.gif)
+SoHo - Chinatown | Manhattanville - Upper West Side
+---- | ----
+![Interpolation Example 1](/images/interpolation.gif) | ![Interpolation Example 2](/images/interpolation_2.gif)
 
 ## Mentions
 
