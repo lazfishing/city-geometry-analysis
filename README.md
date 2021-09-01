@@ -39,3 +39,7 @@ SoHo - Chinatown | Manhattanville - Upper West Side
 ## Mentions
 
 This project was completed at the Center for Urban Science and Progress, New York University. The project members Sheung Chan, Lazarus Chok, and Tan Yan Liang.
+
+**References**
+* [RealCity3D dataset for extracting urban layouts](https://ai4ce.github.io/RealCity3D/)
+* [AETree for encoding urban layouts](https://paperswithcode.com/paper/aetree-areal-spatial-data-generation)
